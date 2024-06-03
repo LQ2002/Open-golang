@@ -1,4 +1,4 @@
-### OpenWrt golang latest version 1.19.x
+### OpenWrt golang old version 1.19.x
 
 ### How to use 1.19.*
 
