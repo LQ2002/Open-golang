@@ -4,5 +4,5 @@
 
 ```shell
 rm -rf feeds/packages/lang/golang
-git clone https://github.com/LQ2002/Open-golang feeds/packages/lang/golang
+git clone https://github.com/LQ2002/Open-golang.git feeds/packages/lang/golang
 ```
